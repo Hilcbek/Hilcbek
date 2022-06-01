@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lastas@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Java and Web Development Projects
+- 💞️ I’m looking to collaborate on C# and Web Development Projects(Specially on Frontend)
 - 📫 How to reach me balemayehu07@gmail.com
 
 <!---
