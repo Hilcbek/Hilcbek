@@ -6,7 +6,7 @@
 
 🌍 **Portfolio** 👉 [bereketalemayehu.vercel.app](https://bereketalemayehu.vercel.app/)
 
-🎯 MERN | PERN | React Native | Redis | BullMQ | WebSockets  
+🎯 MERN | PERN | React Native | Redis | BullMQ | WebSockets | Java | Spring boot | Flutter | DSA
 🎓 Graduate of HiLCoE | A2SV Fellow | Backend & System Design Enthusiast  
 
 ---
