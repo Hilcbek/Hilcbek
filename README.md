@@ -47,7 +47,7 @@
 const bereket = {
   name        : "Bereket Alemayehu",
   alias       : "Hilcbek",
-  location    : "Addis Ababa, Ethiopia 🇪🇹",
+  location    : "Long Beach, California, USA 🇺🇸",
   role        : "Full-Stack Developer",
   education   : "BSc Computer Science — HiLCoE (3.3 GPA)",
   fellowship  : "A2SV Fellow — DSA, Problem Solving & System Design",
