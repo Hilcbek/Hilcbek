@@ -12,7 +12,7 @@
 <br/>
 
 <!-- BADGES ROW -->
-<a href="https://bereketalemayehu.vercel.app/" target="_blank">
+<a href="https://babial.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-C8FF5A?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=111111" alt="Portfolio"/>
 </a>
 &nbsp;
@@ -239,7 +239,7 @@ Multi-tenant architecture with Socket.IO, Redis pub/sub, payroll management, and
 
 | Channel | Link |
 |:---:|:---:|
-| 🌐 Portfolio | [bereketalemayehu.vercel.app](https://bereketalemayehu.vercel.app/) |
+| 🌐 Portfolio | [babial.vercel.app](https://babial.vercel.app/) |
 | 💼 LinkedIn | [linkedin.com/in/bereket-alemayehu-220346214](https://www.linkedin.com/in/bereket-alemayehu-220346214/) |
 | 💬 Telegram | [@endekalu_1](https://t.me/endekalu_1) |
 | 📧 Email | [balemayehu07@gmail.com](mailto:balemayehu07@gmail.com) |
