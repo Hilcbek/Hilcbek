@@ -138,44 +138,44 @@ Desc:   Intensive bootcamp in DSA, Problem Solving & System Design.
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 Redat Woreda Scheduler
-**Real-time appointment & tracking system**
+### 🟢 CaliStore — E-Commerce Platform
+**Production-grade fashion e-commerce store**
 
-Built with MERN stack, WebSockets, and Socket.IO for live updates. Enables government workers to manage citizen appointments with live status tracking.
+Stripe multi-currency checkout (10 currencies), real-time order tracking map via Leaflet + OSRM, and an admin dashboard with inventory, 2FA, batched notifications, sale countdowns, and editorial UI animations.
 
-`MongoDB` `Express` `React` `Node.js` `WebSockets`
+`Next.js` `TypeScript` `Stripe` `Drizzle ORM` `GSAP` `Three.js` `Leaflet`
 
 </td>
 <td width="50%" valign="top">
 
-### 🟡 Yenebeb Book Hub
-**Online book marketplace platform**
+### 🔴 Maedot Pharmacy — Inventory & Telemedicine
+**Full-scale pharmacy management system**
 
-Full-featured marketplace with OAuth, Redis caching, full-text search, and filtering. Optimized for scale with Redis-backed sessions.
+Solo-built for a real client in active daily production. Real-time inventory alerts via WebSockets, Stripe telemedicine flows (500+ consultations), and RBAC middleware across pharmacist/admin/doctor roles. Cut operational overhead ~60%.
 
-`MERN` `Redis` `OAuth` `Full-text Search`
+`Next.js` `Node.js` `PostgreSQL` `WebSockets` `Stripe` `RBAC`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 Hulu E-Commerce Clone
-**Production-ready e-commerce solution**
+### 🔵 Safaricom API Intelligence Dashboard
+**Internal enterprise observability tool**
 
-End-to-end e-commerce platform with cart, auth, product management, and responsive UI. Built with MERN + Tailwind CSS.
+Tracks 2,000+ daily API calls with cache hit rate visibility (73%) and a 20% reduction in database load. Built for Safaricom's engineering team during tenure.
 
-`MongoDB` `Express` `React` `Tailwind CSS`
+`Next.js` `Redis` `PostgreSQL` `Recharts`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 ERPro — Multi-Tenant ERP
-**Enterprise Resource Planning System**
+### ⚡ More on my Portfolio
+**See the full showcase at babial.vercel.app**
 
-Multi-tenant architecture with Socket.IO, Redis pub/sub, payroll management, and org-level isolation. Deployed on Railway/Render.
+All projects include live demos, technical write-ups, and case studies — covering e-commerce, enterprise tools, telemedicine, and real-time systems.
 
-`NestJS` `Redis` `Socket.IO` `PostgreSQL`
+[**→ Visit Portfolio**](https://babial.vercel.app)
 
 </td>
 </tr>
