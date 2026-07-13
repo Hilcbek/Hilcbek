@@ -12,7 +12,7 @@
 <br/>
 
 <!-- BADGES ROW -->
-<a href="https://babial.vercel.app/" target="_blank">
+<a href="https://bfanta.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-C8FF5A?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=111111" alt="Portfolio"/>
 </a>
 &nbsp;
